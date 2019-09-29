@@ -5,10 +5,10 @@
 
 - [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Feito com]("#feito-com")
-- [Aperfeiçoamentos]("#aperfeiçoamentos")
-- [Licença]("#licença")
-- [Contato]("#contato")
+- [Feito com](#feito-com)
+- [Aperfeiçoamentos](#aperfeiçoamentos)
+- [Licença](#licença")
+- [Contato](#contato)
 
 <!-- ABOUT THE PROJECT -->
 
